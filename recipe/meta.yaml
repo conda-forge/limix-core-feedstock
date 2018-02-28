@@ -1,6 +1,6 @@
 {% set name = "limix-core" %}
-{% set version = "1.0.1" %}
-{% set sha256 = "b32d92b1c5294b112028eaa75cf00197257850a7f065533f0a907915d934f34c" %}
+{% set version = "1.0.2" %}
+{% set sha256 = "8d0799073060c9d108adf427f4d450cc34daf40fd9384723ac083aad1a929670" %}
 
 package:
   name: {{ name|lower }}
