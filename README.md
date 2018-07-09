@@ -14,14 +14,15 @@ Summary: Fast inference for Linear Mixed Models
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/limix-core-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/limix-core-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/limix-core-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/limix-core-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/limix-core-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/limix-core-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/limix-core-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/limix-core-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/limix-core/badges/version.svg)](https://anaconda.org/conda-forge/limix-core)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/limix-core/badges/downloads.svg)](https://anaconda.org/conda-forge/limix-core)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-limix--core-green.svg)](https://anaconda.org/conda-forge/limix-core) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/limix-core.svg)](https://anaconda.org/conda-forge/limix-core) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/limix-core.svg)](https://anaconda.org/conda-forge/limix-core) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/limix-core.svg)](https://anaconda.org/conda-forge/limix-core) |
 
 Installing limix-core
 =====================
